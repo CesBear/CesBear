@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![CesBear's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesbear)](https://github.com/cesbear/github-readme-stats)
+[![CesBear's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesbear&theme=dracula&show_icons=true)](https://github.com/cesbear/github-readme-stats)
 
 
 <!--
