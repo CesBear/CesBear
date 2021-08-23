@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Cesar, I am Software Developer Engineer in test. Pasionate about data visualization and quality assurance.
+
+
 [![CesBear's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesbear&theme=dracula&show_icons=true)](linkedin.com/in/cesar-alejandro-ramirez)
 
 
