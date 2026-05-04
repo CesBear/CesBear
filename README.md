@@ -1,52 +1,81 @@
+# Hi 👋 I'm Cesar (CesBear)
 
+**Lead SDET | AI-Driven Testing | Intelligent Automation Architect**
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Cesar, aka CesBear.
-=============================================================================================================================
+Software Development Engineer in Test with 15+ years of experience across backend, mobile, frontend, API, performance, and CI/CD testing.
 
-Software Developer Engineer in Test. I'm passionate about sharing, learning and expanding my knowledge. 
+Focused on scalable automation, BDD frameworks, AI-assisted testing, intelligent test execution, and modern QA engineering practices.
 
+📍 Mexico  
+🌐 [cesbear.com](https://www.cesbear.com)
 
-Lead Software Developer Engineer in Test
-----------------------------------------
-* :round_pushpin: I'm based in :mexico:
+---
 
-### Skills
-<p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+## 🚀 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,java,nodejs,react,mongodb,html,css,git,github,docker,linux,azure,vscode&perline=14" />
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/CesBear" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/cesbear" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/cesar-alejandro-ramirez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Ces_bearGdl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+## 🤖 AI + Dev Tools
 
-### Badges
+<p>
+  <img src="https://img.shields.io/badge/Claude-AI-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI-GPT-412991?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Codex-AI-0A0A0A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cursor-IDE-1E1E1E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP-Connectors-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-Automation-purple?style=for-the-badge" />
+</p>
 
-<b>My GitHub Stats</b>
+---
 
-[![CesBear's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesbear&theme=dracula&show_icons=true)](linkedin.com/in/cesar-alejandro-ramirez)
+## 🧪 Testing Stack
 
-###  📫 How to reach me: ... 
-Go to www.cesbear.com
-<!--
-**CesBear/CesBear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <img src="https://skillicons.dev/icons?i=playwright,selenium,postman,githubactions" />
+  <img src="https://img.shields.io/badge/Cucumber-BDD-23D96C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Appium-Mobile%20Testing-662D91?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/K6-Performance-7D64FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API%20Testing-REST%20%7C%20JSON-orange?style=for-the-badge" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Focus Areas
+
+- AI-assisted test generation
+- Intelligent test selection
+- Impact-based test execution
+- BDD framework architecture
+- Backend, mobile, and frontend automation
+- CI/CD quality gates
+- Performance testing
+- Test architecture and quality strategy
+
+---
+
+## 🔗 Connect
+
+<p>
+  <a href="https://github.com/CesBear">
+    <img src="https://skillicons.dev/icons?i=github" width="34"/>
+  </a>
+  <a href="https://www.linkedin.com/in/cesar-alejandro-ramirez">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="34"/>
+  </a>
+  <a href="https://www.instagram.com/cesbear">
+    <img src="https://skillicons.dev/icons?i=instagram" width="34"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p>
+  <img src="https://img.shields.io/github/followers/CesBear?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/CesBear?style=for-the-badge&logo=github" />
+</p>
