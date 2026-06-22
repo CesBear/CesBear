@@ -9,6 +9,10 @@ Focused on scalable automation, BDD frameworks, AI-assisted testing, intelligent
 📍 Mexico  
 🌐 [cesbear.com](https://www.cesbear.com)
 
+Hobbi sites
+🧮 [AlgoPrep.com](https://algoprep-omega.vercel.app)
+🎸 [MusicApp.com](https://musicappgit.vercel.app)
+
 ---
 
 ## 🚀 Tech Stack
